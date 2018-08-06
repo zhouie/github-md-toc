@@ -1,5 +1,5 @@
 
-ps: 在发现了 sublime 的插件 Markdown TOC 之后 , 世界都清晰起来了
+ps: 在发现了 sublime 的插件 **Markdown TOC** 之后 , 世界都清晰起来了
 
 看完上面这句话，其实可以忽略下面了 ...ORZ
 
