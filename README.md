@@ -1,3 +1,8 @@
+
+ps: 在发现了 sublime 的插件 Markdown TOC 之后 , 世界都清晰起来了
+
+看完上面这句话，其实可以忽略下面了 ...ORZ
+
 ## github-md-toc
 
 > GitHub没有提供 `[TOC]` 类似的功能来为 Markdown 文件(如`README.md`)自动生成目录（TOC），这一点很遗憾；
